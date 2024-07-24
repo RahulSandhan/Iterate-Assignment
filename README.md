@@ -1,4 +1,4 @@
-here my deployment link https://srimandir-5uvr.onrender.com/
+here my deployment link https://iterate-assignment.vercel.app/
 Getting Started with Create React App
 This project was bootstrapped with Create React App.
 
